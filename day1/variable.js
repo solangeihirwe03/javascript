@@ -16,7 +16,7 @@
 
   //variable definition
  x=10;
-//variable declaration and definition in one step
+//variable   declaration and definition in one step
 let w = 10;
 
 function myLastName(){
