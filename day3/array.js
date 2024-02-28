@@ -53,3 +53,7 @@ for(let i =0; i<=myArray.length; i++){
  }
 
 console.log(personality.address);
+
+let MyLesson = [["networking",2],["web",3], ["data anlysis", 14], 5, "string"];
+
+console.log(MyLesson[4]);
