@@ -47,9 +47,19 @@ array.forEach((arrDisplay)=>console.log(arrDisplay));
 
 let indexOfBlue = array.indexOf("blue");
 
-console.log(indexOfBlue);
+//console.log(indexOfBlue);
 
 //sorting numbers in ascending order
 
-let sortNumbers = numbers.sort((a, b)=> a - b );
-console.log(sortNumbers);
+let sortNumbers = numbers.sort((a, b)=> a -b );
+//console.log(sortNumbers);
+
+//Convert the mixedArray to a string with elements separated by commas.
+let mixedArr = [1, "hi", true, "MIT"];
+let arrAsString = mixedArr.join();
+console.log(arrAsString);
+
+
+//objects
+//let's create an object
+
